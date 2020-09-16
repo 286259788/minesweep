@@ -1,0 +1,2 @@
+E:\academic\c\minesweep\Debug\minesweep.exe
+E:\academic\c\minesweep\Debug\minesweep.pdb
